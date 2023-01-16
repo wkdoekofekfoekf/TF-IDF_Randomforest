@@ -4,12 +4,17 @@
 
 
 ![image](https://user-images.githubusercontent.com/62790857/212621932-88dfa586-b419-4717-961b-36b059616f17.png)
+
+
 물체의 특징을 종합한 데이터셋을 불러오고 
 y에 들어갈 임의의 물체를 변수 주었습니다.
 
 
 
 ![image](https://user-images.githubusercontent.com/62790857/212623407-90ca903b-8e38-47b5-90ea-663e35c9d1ec.png)
+
+
+
 막상 가장 유사도가 비슷한 클래스로 분류를 진행하려고 하니 분류기에 테스트셋이 들어가질 않았음.
 글자를 수치화할 필요성을 느낌
 
@@ -29,6 +34,11 @@ TF-IDF는 개별 문서에서 자주 등장하는 단어에 높은 가중치를 
 두가지 다 이용하여 다른 특징들과 조합 후 테스트기에 넣어 보기로 함.
 
 ![image](https://user-images.githubusercontent.com/62790857/212623597-a2f0c672-2edc-4be9-bb18-810eb9d1c587.png)
+
+
+
+
+
 
 
 
